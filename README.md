@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmiLaJaponesa
 - 👀 I’m interested in latin american spanish and crocheting.
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Kotlin.
-- 💞️ I’m looking to collaborate on Android apps development for learning Japanese.
+- 💞️ I’m looking to collaborate on Android apps development and Japanese translation.
 - 📫 How to reach me @EmiLaJaponesa
 
 <!---
