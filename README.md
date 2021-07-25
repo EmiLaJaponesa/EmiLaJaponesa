@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @EmiLaJaponesa
+- 👋 Hi, I’m Emi Jin.
 - 👀 I’m interested in latin american spanish and crocheting.
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Kotlin.
-- 💞️ I’m looking to collaborate on Android apps development and Japanese translation.
-- 📫 How to reach me @EmiLaJaponesa
+- 💞️ I’m looking to collaborate on Android apps development and Japanese/Spanish translation.
+- 📫 How to reach me @EmiLaJaponesa.
 
 <!---
 EmiLaJaponesa/EmiLaJaponesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
