@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emi Jin.
 - 👀 I’m interested in latin american spanish and crocheting.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and in the near future Kotlin as well.
-- 💞️ I’m looking to collaborate on Android apps development and Japanese/Spanish translation.
+- 💞️ I’m looking to collaborate on mobile apps development and Japanese translation.
 - 📫 How to reach me @EmiLaJaponesa.
 
 <!---
